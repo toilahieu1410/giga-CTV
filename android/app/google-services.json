@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "694567007731",
+    "project_id": "wise-giga",
+    "storage_bucket": "wise-giga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694567007731:android:708de453c7f0eacf3e4e86",
+        "android_client_info": {
+          "package_name": "com.wise_giga_digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694567007731-djpc6t1tkordd6e94muga0uhdecgeamr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wise_giga_digital",
+            "certificate_hash": "5450d1b0d4ff9a006b4e391f5cf1a96c5671246d"
+          }
+        },
+        {
+          "client_id": "694567007731-tahug19loksvi6vvci60bh47ce60a5m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsyLYpTdprZ2NKWrf007rPI49kwuuS7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694567007731-tahug19loksvi6vvci60bh47ce60a5m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

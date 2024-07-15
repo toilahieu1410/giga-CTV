@@ -1,0 +1,41 @@
+// Auth
+export const SIGN_UP = 'SIGN_UP'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const LOGOUT = 'LOGOUT'
+export const SET_LOGGED_IN = 'SET_LOGGED_IN'
+
+// Home
+export const GET_BANNER = 'GET_BANNER'
+export const GET_PRODUCT_HOME = 'GET_PRODUCT_HOME'
+
+export const GET_PROFILE = 'GET_PROFILE'
+export const UPDATE_PROFILE = 'UPDATE_PROFILE'
+export const GET_LIST_BANK = 'GET_LIST_BANK'
+export const CHANGE_PASWORD = 'CHANGE_PASWORD'
+export const GET_CITY = 'GET_CITY'
+export const GET_DISTRICT = 'GET_DISTRICT'
+export const GET_WARD = 'GET_WARD'
+export const GET_LIST_ADDRESS = 'GET_LIST_ADDRESS'
+export const POST_LIST_ADDRESS = 'POST_LIST_ADDRESS'
+export const UPDATE_LIST_ADDRESS = 'UPDATE_LIST_ADDRESS'
+export const DELETE_LIST_ADDRESS = 'DELETE_LIST_ADDRESS'
+
+export const GET_CART = 'GET_CART'
+export const POST_CART = 'POST_CART'
+export const UPDATE_CART = 'UPDATE_CART'
+export const DELETE_CART = 'DELETE_CART'
+export const CREATE_ORDER = 'CREATE_ORDER'
+export const CONFIRM_ORDER = 'CONFIRM_ORDER'
+export const GET_LIST_ORDER = 'GET_LIST_ORDER'
+export const GET_DETAIL_ORDER = 'GET_DETAIL_ORDER'
+export const DELETE_ORDER = 'DELETE_ORDER'
+
+// Product
+export const GET_CATEGORY = 'GET_CATEGORY'
+export const GET_PRODUCT_DETAIL = 'GET_PRODUCT_DETAIL'
+export const GET_PRODUCT_CATEGORY = 'GET_PRODUCT_CATEGORY'
+
+export const GET_FAVOURITE = 'GET_FAVOURITE'
+export const POST_FAVOURITE = 'POST_FAVOURITE'
+export const DELETE_FAVOURITE = 'DELETE_FAVOURITE'
